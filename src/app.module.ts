@@ -1,3 +1,4 @@
+import { AuthController } from './auth/auth/auth.controller';
 import { Module } from '@nestjs/common';
 import { ConfigModule } from '@nestjs/config';
 import { AppController } from './app.controller';
